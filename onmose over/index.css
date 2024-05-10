@@ -1,0 +1,15 @@
+.mt{
+
+	height: 300px;
+	width: 20%;
+	display: inline-block;
+}
+
+video{
+
+
+	height: 400px;
+	width: 100%;
+
+	fill-opacity: calc(0);
+}
